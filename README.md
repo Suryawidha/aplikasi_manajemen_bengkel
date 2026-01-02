@@ -7,12 +7,5 @@ Aplikasi manajemen bengkel berbasis web php natif dengan database mysql.
 - Fitur transaksi kasir bengkel
 - Fitur manajemen sparepart
 - Fitur manajemen mekanik
+- Fitur cetak nota
 
-## Instalasi
-
-1.  Clone repositori ini.
-2.  Impor database.
-
-## Penggunaan
-
-Buka `index.html` di browser Anda.
