@@ -1,6 +1,6 @@
 # Selamat Datang di Proyek Saya!
 
-Aplikasi manajemen bengkel berbasis web php natif dengan database mysql.
+Aplikasi manajemen bengkel berbasis web php native dengan database mysql.
 
 ## Fitur Utama
 
